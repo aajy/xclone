@@ -1,3 +1,3 @@
-export default function Home() {
-  return <main>메인페이지</main>;
+export default function Page() {
+  return <main>게시글 상세</main>;
 }
