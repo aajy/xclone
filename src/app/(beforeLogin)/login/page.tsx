@@ -10,6 +10,5 @@ export default function Login() {
 	useEffect(() => {
 		router.replace('/i/flow/login');
 	}, [router]);
-
 	return <Main />;
 }
